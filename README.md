@@ -1,4 +1,3 @@
-﻿c最新的下载地址：http://gitlab.0voice.com/liaoqingfu/libzmq-test
 # 编译
 使用cmake，先进到该目录
 cd libzmq-test
@@ -26,3 +25,5 @@ tasksink.c		PULL
 rrclient.c		REQ
 rrbroker.c		ROUTER/DEALER
 rrworker.c		REP
+
+文章见：https://blog.csdn.net/weixin_34764432/article/details/109130445
